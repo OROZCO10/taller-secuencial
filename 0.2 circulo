@@ -1,0 +1,9 @@
+Algoritmo circulo
+	definir area, perimetro, radio Como Real
+	escribir  "ingresa tu radio"
+	leer radio
+	area = PI*radio*radio
+	perimetro = 2*PI*radio
+	Escribir "tu area es", area
+	Escribir "tu perimetro es", perimetro
+FinAlgoritmo
